@@ -3,133 +3,133 @@
     {
       "number": 1,
       "description": "MARK I",
-      "deadLine": "2022-12-23",
+      "deadLine": "23/12/2022",
       "status": "concluido",
       "id": 1
     },
     {
       "number": 2,
       "description": "MARK II",
-      "deadLine": "2022-12-25",
+      "deadLine": "25/12/2022",
       "status": "Em andamento",
       "id": 2
     },
     {
       "number": 3,
       "description": "mark III",
-      "deadLine": "2022-12-26",
+      "deadLine": "26/12/2022",
       "status": "Em andamento",
       "id": 3
     },
     {
       "number": 4,
       "description": "get Miss Potts a drink",
-      "deadLine": "2022-12-24",
+      "deadLine": "24/12/2022",
       "status": "Parada",
       "id": 4
     },
     {
       "number": 5,
       "description": "ask Alfred for the new Batmobile",
-      "deadLine": "2022-12-25",
+      "deadLine": "25/12/2022",
       "status": "Em andamento",
       "id": 5
     },
     {
       "number": 6,
       "description": "become black panther",
-      "deadLine": "2022-12-25",
+      "deadLine": "25/12/2022",
       "status": "Em andamento",
       "id": 6
     },
     {
       "number": 7,
       "description": "chase superman",
-      "deadLine": "2022-12-18",
+      "deadLine": "18/12/2022",
       "status": "concluido",
       "id": 7
     },
     {
       "number": 8,
-      "description": "chase Zordon",
-      "deadLine": "2022-12-27",
+      "description": "chase Zodd",
+      "deadLine": "27/12/2022",
       "status": "Em andamento",
       "id": 8
     },
     {
       "number": 9,
       "description": "unfreeze Captain America",
-      "deadLine": "2022-12-18",
+      "deadLine": "18/12/2022",
       "status": "Parada",
       "id": 9
     },
     {
       "number": 10,
       "description": "find Mjölnir and get back to Asgard",
-      "deadLine": "2022-12-28",
+      "deadLine": "28/12/2022",
       "status": "concluido",
       "id": 10
     },
     {
       "number": 11,
       "description": "ask Pepper to blow Arc Reactor",
-      "deadLine": "2022-12-27",
+      "deadLine": "27/12/2010",
       "status": "concluido",
       "id": 11
     },
     {
       "number": 12,
       "description": "Avoid Ella to destroy Asgard",
-      "deadLine": "2022-12-30",
+      "deadLine": "30/12/2022",
       "status": "Parada",
       "id": 12
     },
     {
       "number": 13,
       "description": "Avoid the Joker to mess up with Rachel",
-      "deadLine": "2022-12-25",
+      "deadLine": "25/12/2022",
       "status": "Parada",
       "id": 13
     },
     {
       "number": 14,
       "description": "Dance with Peggy ",
-      "deadLine": "1945-06-01",
+      "deadLine": "01/06/1945",
       "status": "Parada",
       "id": 14
     },
     {
       "number": 15,
       "description": "Prevent dr. Banner to became Hulk in the Avengers Ship",
-      "deadLine": "2012-12-01",
+      "deadLine": "01/12/2012",
       "status": "Em andamento",
       "id": 15
     },
     {
       "number": 16,
       "description": "finish Arnia's first module",
-      "deadLine": "2023-01-01",
+      "deadLine": "17/01/2023",
       "status": "concluido",
       "id": 16
     },
     {
       "number": 17,
       "description": "finish today tasks search ar Arnia's first module final project",
-      "deadLine": "2023-01-01",
+      "deadLine": "14/01/2023",
       "status": "concluido",
       "id": 17
     },
     {
       "number": 18,
       "description": "review today's tasks finder",
-      "deadLine": "2023-01-03",
+      "deadLine": "14/01/2023",
       "status": "concluido",
       "id": 18
     },
     {
       "number": 19,
       "description": "Review status words",
-      "deadLine": "2023-01-03",
+      "deadLine": "03/01/2023",
       "status": "concluido",
       "id": 19
     }
